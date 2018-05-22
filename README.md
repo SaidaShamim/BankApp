@@ -1,9 +1,15 @@
+This is an example for spring boot and mongodb.
+Follow link for mongodb ::https://guru99.com/mongodb-tutorials.html
+    Download from below link​
 
-This directory contains the code listing for a
-[tutorial](https://tests4geeks.com/tutorials/spring-data-boot-mongodb-example/) 
-on [tests4geeks.com](https://tests4geeks.com/tutorials) about using
-[MongoDB](http://mongodb.org) with Spring Boot and Spring Data. 
+   https://www.mongodb.com/dr/fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.4-signed.msi/download​
 
-This tutorial builds a really simple car database, and the end product looks like this:
+​
 
-![car](animation.gif)
+For IDE to work with mongodb download it from the below link​
+
+   https://robomongo.org/download​
+
+​
+
+​
