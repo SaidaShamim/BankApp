@@ -1,0 +1,9 @@
+com\nisum\api\model\Notes.class
+com\nisum\api\controller\BankAppController.class
+com\nisum\api\model\Bank.class
+com\nisum\api\repository\BankRepository.class
+com\nisum\api\model\Branch.class
+com\nisum\api\repository\BankSearchRepository.class
+com\nisum\api\model\Address.class
+com\nisum\api\BankAppApplication.class
+com\nisum\api\model\ATM.class

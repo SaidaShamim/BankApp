@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BankAppl
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NISUM
+Implementation-Vendor-Id: com.nisum.bank
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BankAppl
+Created-By: Maven Integration for Eclipse
+
